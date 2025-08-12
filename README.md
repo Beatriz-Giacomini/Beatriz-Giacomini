@@ -28,19 +28,36 @@ Técnico em Desenvolvimento de Sistemas - Senai "Santo Paschoal Crepaldi" (2025 
 ### 📚 Cursos Complementares
 Implantação de Serviços em Nuvem - Microsoft AZ-900 (2025 - 40h)
 
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e21e8c48-7075-4812-88ed-e0be8ecdbaea" />
+
 Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundation (2025 - 40h)
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
+
+
 
 ---
 ### 💻 Competências Técnicas
 Front-end: HTML, Markdown, JavaScript
 
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6ee622ac-ecc8-4075-94ad-b1faa3414fc1" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8335025f-32f6-4d11-98e1-611077b6bf42" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d4616dc4-b103-434e-b5cc-4497c1e0575d" />
+
 Back-end: Node.js, Python
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7ac11129-3d60-4649-8904-3114c8046c3e" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8e0fe0a4-65d7-4758-928c-bf987a55cf84" />
 
 Cloud: AWS
 
-Versionamento: Git, GitHub
+Versionamento: GitHub
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5ec790ec-4460-4cf5-9195-3af67b753aba" />
 
 Design: Canva
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/988ebbd0-e663-4c7e-9b37-23acbc084b33" />
 
 ---
 ### ❤️ Interesses
