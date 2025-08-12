@@ -16,9 +16,9 @@ Exercer o papel de desenvolvedora Full-Stack, aprimorando minhas habilidades té
 
 ---
 ### 🗣 Idiomas
-Português: Nativo
+**Português**: Nativo
 
-Inglês: Intermediário (B1)
+**Inglês**: Intermediário (B1)
 
 ---
 ### 🎓 Formação Acadêmica
