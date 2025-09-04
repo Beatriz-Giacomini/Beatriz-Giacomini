@@ -28,7 +28,7 @@ Técnico em Desenvolvimento de Sistemas - Senai "Santo Paschoal Crepaldi" (2025 
 ### 📚 Cursos Complementares
 Excel Básico - Fundação Bradesco (2024 - 15h)
 
-<img width="25" height="25" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvucQnjKhVQlOs0nCuAoC-rRmIz28uUP5ubDes38kCSd9puNeIEPXJxjXB5ghmUPh3EQY&usqp=CAU" />
+<img width="35" height="35" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvucQnjKhVQlOs0nCuAoC-rRmIz28uUP5ubDes38kCSd9puNeIEPXJxjXB5ghmUPh3EQY&usqp=CAU" />
 
 Implantação de Serviços em Nuvem - Microsoft AZ-900 (2025 - 40h)
 
