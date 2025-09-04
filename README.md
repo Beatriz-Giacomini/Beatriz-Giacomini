@@ -87,9 +87,9 @@ Organização e Planejamento
 
 Proatividade e Responsabilidade
 
-Criatividade na resolução de problemas
-
 Ética e Autonomia
+
+Criatividade na resolução de problemas
 
 --- 
 ### ⚠️ Pontos a Melhorar
@@ -103,4 +103,4 @@ Desenvolver habilidades de liderança e delegação
 ### 🎨 Hobbies
 Leitura de livros
 
-Assistir séries para aprimorar o inglês e entretenimento
+Assistir séries para aprimorar o inglês e para entretenimento
