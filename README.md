@@ -4,7 +4,7 @@ Nome: Beatriz Vasconcelo Giacomini
 
 Idade: 16 anos
 
-Cidade: Presidente Prudente - SP
+Cidade: Alfredo Marcondes - SP
 
 Email: beatrizgiacomini17@gmail.com
 
@@ -31,6 +31,10 @@ Implantação de Serviços em Nuvem - Microsoft AZ-900 (2025 - 40h)
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e21e8c48-7075-4812-88ed-e0be8ecdbaea" />
 
 Implantação de Serviços em Nuvem - AWS Cloud Practitioner Foundation (2025 - 40h)
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
+
+Implantação de Serviços em Nuvem - AWS Cloud Architecting (2025 - 60h)
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
 
