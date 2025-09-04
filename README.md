@@ -28,7 +28,7 @@ Técnico em Desenvolvimento de Sistemas - Senai "Santo Paschoal Crepaldi" (2025 
 ### 📚 Cursos Complementares
 Excel Básico - Fundação Bradesco (2024 - 15h)
 
-<img width="40" height="40" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvucQnjKhVQlOs0nCuAoC-rRmIz28uUP5ubDes38kCSd9puNeIEPXJxjXB5ghmUPh3EQY&usqp=CAU" />
+<img width="60" height="60" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvucQnjKhVQlOs0nCuAoC-rRmIz28uUP5ubDes38kCSd9puNeIEPXJxjXB5ghmUPh3EQY&usqp=CAU" />
 
 Implantação de Serviços em Nuvem - Microsoft AZ-900 (2025 - 40h)
 
@@ -42,9 +42,9 @@ Implantação de Serviços em Nuvem - AWS Cloud Architecting (2025 - 60h)
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
 
-Python Essentials 1 - Cisco Networking Academy (2025 - 30h)
+Fundamentos do Python 1 - Cisco Networking Academy (2025 - 30h)
 
-<img width="50" height="50" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
+<img width="60" height="60" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
 
 ---
 ### 💻 Competências Técnicas
