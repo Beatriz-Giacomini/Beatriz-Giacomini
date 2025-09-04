@@ -38,6 +38,10 @@ Implantação de Serviços em Nuvem - AWS Cloud Architecting (2025 - 60h)
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
 
+Python Essentials 1 - Cisco (2025 - 30h)
+
+<img width="25" height="25" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
+
 
 
 ---
