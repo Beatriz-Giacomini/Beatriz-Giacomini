@@ -26,6 +26,10 @@ Técnico em Desenvolvimento de Sistemas - Senai "Santo Paschoal Crepaldi" (2025 
 
 ---
 ### 📚 Cursos Complementares
+Excel Básico - Fundação Bradesco (2024 - 15h)
+
+<img width="25" height="25" alt="image" src="https://www.vestibulandoweb.com.br/wp-content/uploads/2025/07/fundacao-bradesco.jpg" />
+
 Implantação de Serviços em Nuvem - Microsoft AZ-900 (2025 - 40h)
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e21e8c48-7075-4812-88ed-e0be8ecdbaea" />
@@ -38,11 +42,9 @@ Implantação de Serviços em Nuvem - AWS Cloud Architecting (2025 - 60h)
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
 
-Python Essentials 1 - Cisco (2025 - 30h)
+Python Essentials 1 - Cisco Networking Academy (2025 - 30h)
 
-<img width="25" height="25" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
-
-
+<img width="30" height="30" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
 
 ---
 ### 💻 Competências Técnicas
@@ -99,6 +101,6 @@ Desenvolver habilidades de liderança e delegação
 
 --- 
 ### 🎨 Hobbies
-Leitura de romances, fantasia e distopia
+Leitura de livros
 
 Assistir séries para aprimorar o inglês e entretenimento
