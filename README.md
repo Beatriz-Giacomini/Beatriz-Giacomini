@@ -61,6 +61,8 @@ Back-end: Node.js, Python
 
 Cloud: AWS
 
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1b066dd9-5a6f-4c04-954c-a43f38ebbf61" />
+
 Versionamento: GitHub
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5ec790ec-4460-4cf5-9195-3af67b753aba" />
