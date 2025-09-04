@@ -28,7 +28,7 @@ Técnico em Desenvolvimento de Sistemas - Senai "Santo Paschoal Crepaldi" (2025 
 ### 📚 Cursos Complementares
 Excel Básico - Fundação Bradesco (2024 - 15h)
 
-<img width="25" height="25" alt="image" src="https://www.vestibulandoweb.com.br/wp-content/uploads/2025/07/fundacao-bradesco.jpg" />
+<img width="25" height="25" alt="image" src="https://lms.ev.org.br/mpls/Custom/Logos/fundacao_logo-login.png" />
 
 Implantação de Serviços em Nuvem - Microsoft AZ-900 (2025 - 40h)
 
@@ -44,7 +44,7 @@ Implantação de Serviços em Nuvem - AWS Cloud Architecting (2025 - 60h)
 
 Python Essentials 1 - Cisco Networking Academy (2025 - 30h)
 
-<img width="30" height="30" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
+<img width="40" height="40" alt="image" src="https://netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/407c875e-1b8b-11ec-9621-0242ac130003/image.png" />
 
 ---
 ### 💻 Competências Técnicas
