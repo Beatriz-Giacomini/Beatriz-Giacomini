@@ -74,9 +74,11 @@ Design: Canva
 ---
 ### 📋 Meus Projetos
 A Gourmetify é uma plataforma digital que conecta pessoas apaixonadas por culinária, oferecendo um espaço prático e acessível para descobrir, salvar e compartilhar receitas de diferentes estilos. A Gourmetify tem como propósito inspirar pessoas a explorar novos sabores e transformar a cozinha em um ambiente de criatividade e convivência.
+
 [Gourmetify.pdf](https://github.com/user-attachments/files/22413230/Gourmetify.pdf)
 
 O Ciber Guardiões S.A. é um projeto voltado para a área de cibersegurança, especializada em proteger empresas e indivíduos contra ameaças cibernéticas, oferece serviços de consultoria, software de segurança e treinamento para garantir a integridade e a confidencialidade dos dados.
+
 [Ciber Guardiões S.A..pdf](https://github.com/user-attachments/files/22413305/Ciber.Guardioes.S.A.pdf)
 
 
